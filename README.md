@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @foursys-isabelly
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning react native
